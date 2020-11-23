@@ -1,0 +1,7 @@
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\bin\Debug\wca_HelloWorld.exe.config
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\bin\Debug\wca_HelloWorld.exe
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\bin\Debug\wca_HelloWorld.pdb
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\obj\Debug\wca_HelloWorld.csprojAssemblyReference.cache
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\obj\Debug\wca_HelloWorld.csproj.CoreCompileInputs.cache
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\obj\Debug\wca_HelloWorld.exe
+S:\Files\Programming\Csharp\Repos\wca_HelloWorld\obj\Debug\wca_HelloWorld.pdb

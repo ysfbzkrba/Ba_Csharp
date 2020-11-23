@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WCA_arithmetics/1.0.0": {
+        "runtime": {
+          "WCA_arithmetics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WCA_arithmetics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

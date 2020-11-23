@@ -1,0 +1,13 @@
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\bin\Debug\netcoreapp3.1\WCA_arithmetics.exe
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\bin\Debug\netcoreapp3.1\WCA_arithmetics.deps.json
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\bin\Debug\netcoreapp3.1\WCA_arithmetics.runtimeconfig.json
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\bin\Debug\netcoreapp3.1\WCA_arithmetics.runtimeconfig.dev.json
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\bin\Debug\netcoreapp3.1\WCA_arithmetics.dll
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\bin\Debug\netcoreapp3.1\WCA_arithmetics.pdb
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.dll
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.pdb
+C:\Users\yusuf\Desktop\Day2\WCA_arithmetics\obj\Debug\netcoreapp3.1\WCA_arithmetics.genruntimeconfig.cache

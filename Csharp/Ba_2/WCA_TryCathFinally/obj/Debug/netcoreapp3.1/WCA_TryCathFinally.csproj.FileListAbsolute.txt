@@ -1,0 +1,13 @@
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\bin\Debug\netcoreapp3.1\WCA_TryCathFinally.exe
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\bin\Debug\netcoreapp3.1\WCA_TryCathFinally.deps.json
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\bin\Debug\netcoreapp3.1\WCA_TryCathFinally.runtimeconfig.json
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\bin\Debug\netcoreapp3.1\WCA_TryCathFinally.runtimeconfig.dev.json
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\bin\Debug\netcoreapp3.1\WCA_TryCathFinally.dll
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\bin\Debug\netcoreapp3.1\WCA_TryCathFinally.pdb
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.dll
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.pdb
+C:\Users\yusuf\Desktop\Day2\WCA_TryCathFinally\obj\Debug\netcoreapp3.1\WCA_TryCathFinally.genruntimeconfig.cache

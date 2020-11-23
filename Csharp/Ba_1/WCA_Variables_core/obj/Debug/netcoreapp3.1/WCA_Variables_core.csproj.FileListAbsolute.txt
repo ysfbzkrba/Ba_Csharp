@@ -1,0 +1,13 @@
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\bin\Debug\netcoreapp3.1\WCA_Variables_core.exe
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\bin\Debug\netcoreapp3.1\WCA_Variables_core.deps.json
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\bin\Debug\netcoreapp3.1\WCA_Variables_core.runtimeconfig.json
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\bin\Debug\netcoreapp3.1\WCA_Variables_core.runtimeconfig.dev.json
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\bin\Debug\netcoreapp3.1\WCA_Variables_core.dll
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\bin\Debug\netcoreapp3.1\WCA_Variables_core.pdb
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.csprojAssemblyReference.cache
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.AssemblyInfoInputs.cache
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.AssemblyInfo.cs
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.csproj.CoreCompileInputs.cache
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.dll
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.pdb
+S:\Files\Programming\Csharp\Repos\WCA_Variables_core\obj\Debug\netcoreapp3.1\WCA_Variables_core.genruntimeconfig.cache
