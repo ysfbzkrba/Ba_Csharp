@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\bin\Debug\WFA_TernaryIF.exe.config
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\bin\Debug\WFA_TernaryIF.exe
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\bin\Debug\WFA_TernaryIF.pdb
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.Form1.resources
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.exe
+S:\Files\SE\Csharp\Ba_4\WFA_TernaryIF\obj\Debug\WFA_TernaryIF.pdb

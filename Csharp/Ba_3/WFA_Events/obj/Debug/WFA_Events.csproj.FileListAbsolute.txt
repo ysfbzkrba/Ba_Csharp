@@ -1,0 +1,11 @@
+S:\Files\SE\Csharp\Ba_3\WFA_Events\bin\Debug\WFA_Events.exe.config
+S:\Files\SE\Csharp\Ba_3\WFA_Events\bin\Debug\WFA_Events.exe
+S:\Files\SE\Csharp\Ba_3\WFA_Events\bin\Debug\WFA_Events.pdb
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.Form1.resources
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.exe
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.pdb
+S:\Files\SE\Csharp\Ba_3\WFA_Events\obj\Debug\WFA_Events.Form2.resources

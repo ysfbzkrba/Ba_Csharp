@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\bin\Debug\WFA_Ui_1.exe.config
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\bin\Debug\WFA_Ui_1.exe
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\bin\Debug\WFA_Ui_1.pdb
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.Form1.resources
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.exe
+S:\Files\SE\Csharp\Ba_3\WFA_Ui_1\obj\Debug\WFA_Ui_1.pdb

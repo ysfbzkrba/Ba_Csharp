@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe.config
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.pdb
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Form1.resources
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.exe
+S:\Files\SE\Csharp\Ba_4\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.pdb

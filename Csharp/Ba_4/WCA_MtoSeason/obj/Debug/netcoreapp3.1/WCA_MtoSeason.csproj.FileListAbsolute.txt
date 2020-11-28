@@ -1,0 +1,13 @@
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\bin\Debug\netcoreapp3.1\WCA_MtoSeason.exe
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\bin\Debug\netcoreapp3.1\WCA_MtoSeason.deps.json
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\bin\Debug\netcoreapp3.1\WCA_MtoSeason.runtimeconfig.json
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\bin\Debug\netcoreapp3.1\WCA_MtoSeason.runtimeconfig.dev.json
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\bin\Debug\netcoreapp3.1\WCA_MtoSeason.dll
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\bin\Debug\netcoreapp3.1\WCA_MtoSeason.pdb
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.AssemblyInfoInputs.cache
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.AssemblyInfo.cs
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.dll
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.pdb
+S:\Files\SE\Csharp\Ba_4\WCA_MtoSeason\obj\Debug\netcoreapp3.1\WCA_MtoSeason.genruntimeconfig.cache

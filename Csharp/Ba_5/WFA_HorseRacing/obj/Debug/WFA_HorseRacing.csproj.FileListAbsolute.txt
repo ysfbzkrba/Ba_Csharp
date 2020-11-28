@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\bin\Debug\WFA_HorseRacing.exe.config
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\bin\Debug\WFA_HorseRacing.exe
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\bin\Debug\WFA_HorseRacing.pdb
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.Hippodrome.resources
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.exe
+S:\Files\SE\Csharp\Ba_5\WFA_HorseRacing\obj\Debug\WFA_HorseRacing.pdb

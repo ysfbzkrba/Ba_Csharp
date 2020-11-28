@@ -1,0 +1,5 @@
+S:\Files\SE\Csharp\Ba_3\WFA_FirstApp\obj\Debug\WFA_FirstApp.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_3\WFA_FirstApp\obj\Debug\WFA_FirstApp.Form1.resources
+S:\Files\SE\Csharp\Ba_3\WFA_FirstApp\obj\Debug\WFA_FirstApp.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_3\WFA_FirstApp\obj\Debug\WFA_FirstApp.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_3\WFA_FirstApp\obj\Debug\WFA_FirstApp.csproj.CoreCompileInputs.cache

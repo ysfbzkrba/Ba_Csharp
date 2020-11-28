@@ -1,0 +1,11 @@
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\bin\Debug\WFA.ifelse.exe.config
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\bin\Debug\WFA.ifelse.exe
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\bin\Debug\WFA.ifelse.pdb
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.Form1.resources
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.exe
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.pdb
+S:\Files\SE\Csharp\Ba_3\WFA.ifelse\obj\Debug\WFA.ifelse.Form2.resources
