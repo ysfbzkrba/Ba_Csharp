@@ -73,6 +73,7 @@ namespace WFA_Authenticator
             this.TopBar.Name = "TopBar";
             this.TopBar.Size = new System.Drawing.Size(560, 10);
             this.TopBar.TabIndex = 0;
+            this.TopBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.TopBar_MouseDown);
             // 
             // B_exit
             // 
