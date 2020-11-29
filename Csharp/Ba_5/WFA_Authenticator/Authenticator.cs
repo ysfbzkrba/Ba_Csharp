@@ -55,6 +55,8 @@ namespace WFA_Authenticator
             if (tBox.Text == lblAuth.Text.Replace(" ", ""))
             {
                 MessageBox.Show("Login Succesful!");
+                pStarR1.Visible = pStarR2.Visible = pStarR3.Visible = pStarR4.Visible = pStarR5.Visible = true;
+                life = 5;
             }
             else if (life == 5)
             {
