@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\bin\Debug\WFA_Authenticator.exe.config
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\bin\Debug\WFA_Authenticator.exe
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\bin\Debug\WFA_Authenticator.pdb
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.Authenticator.resources
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.exe
+S:\Files\SE\Csharp\Ba_5\WFA_Authenticator\obj\Debug\WFA_Authenticator.pdb
