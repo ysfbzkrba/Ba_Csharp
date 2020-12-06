@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\bin\Debug\WFA_ArrayPractice.exe.config
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\bin\Debug\WFA_ArrayPractice.exe
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\bin\Debug\WFA_ArrayPractice.pdb
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.Form1.resources
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.exe
+S:\Files\SE\Csharp\Ba_6\WFA_ArrayPractice\obj\Debug\WFA_ArrayPractice.pdb
