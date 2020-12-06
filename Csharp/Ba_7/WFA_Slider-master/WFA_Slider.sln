@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_Slider", "WFA_Slider\WFA_Slider.csproj", "{0C626BB8-3194-4D22-BCDC-B14274FC4EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C626BB8-3194-4D22-BCDC-B14274FC4EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C626BB8-3194-4D22-BCDC-B14274FC4EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C626BB8-3194-4D22-BCDC-B14274FC4EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C626BB8-3194-4D22-BCDC-B14274FC4EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284F6587-97BE-4CC6-A166-08DDF3931DEE}
+	EndGlobalSection
+EndGlobal

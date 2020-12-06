@@ -1,0 +1,10 @@
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.csprojAssemblyReference.cache
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.AddtoListForm.resources
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.Properties.Resources.resources
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.csproj.GenerateResource.cache
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.csproj.CoreCompileInputs.cache
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\bin\Debug\WFA_array_lab.exe.config
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\bin\Debug\WFA_array_lab.exe
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\bin\Debug\WFA_array_lab.pdb
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.exe
+C:\Users\arduv\Documents\SE\Csharp\Ba_7\WFA_array_lab\obj\Debug\WFA_array_lab.pdb
