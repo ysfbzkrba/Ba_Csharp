@@ -1,0 +1,13 @@
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\bin\Debug\netcoreapp3.1\WCA_DoWhile.exe
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\bin\Debug\netcoreapp3.1\WCA_DoWhile.deps.json
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\bin\Debug\netcoreapp3.1\WCA_DoWhile.runtimeconfig.json
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\bin\Debug\netcoreapp3.1\WCA_DoWhile.runtimeconfig.dev.json
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\bin\Debug\netcoreapp3.1\WCA_DoWhile.dll
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\bin\Debug\netcoreapp3.1\WCA_DoWhile.pdb
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.csprojAssemblyReference.cache
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.AssemblyInfoInputs.cache
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.AssemblyInfo.cs
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.dll
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.pdb
+C:\Users\arduv\Documents\SE\Csharp\Ba_9\WCA_DoWhile\obj\Debug\netcoreapp3.1\WCA_DoWhile.genruntimeconfig.cache
