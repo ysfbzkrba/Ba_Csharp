@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\bin\Debug\WFA_MineSweeper.exe.config
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\bin\Debug\WFA_MineSweeper.exe
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\bin\Debug\WFA_MineSweeper.pdb
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.Field.resources
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.exe
+S:\Files\SE\Csharp\Ba_12\WFA_MineSweeper\obj\Debug\WFA_MineSweeper.pdb

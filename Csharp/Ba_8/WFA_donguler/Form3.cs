@@ -13,6 +13,9 @@ namespace WFA_donguler
 {
     public partial class Form3 : Form
     {
+        int sideLength = 5;
+        char[] x;
+
         public Form3()
         {
             InitializeComponent();
@@ -23,21 +26,22 @@ namespace WFA_donguler
             // yan yana 5 adet X yazdırınız => X X X X X (label'a)
             //int n = int.Parse(textBox1.Text);
 
-            int sideLength = 5;
-            char[] x;
-            for (int i = 1; i < sideLength; i++)
+
+
+            for (int row = 1; row <= sideLength; row++)
             {
-                
+            lblYaziAlani.Text += "X";
             }
-
-            //for (int row = 1; row <= sideLength; row++)
-            //{
-
-            //}
         }
 
         private void btnOrnekIki_Click(object sender, EventArgs e)
         {
+
+            for (int i = 1; i <= sideLength; i++)
+            {
+                lblYaziAlani.Text += "X\n";
+            }
+
             // alt alta 5 adet X yazdırınız =>
             /*
             X
@@ -46,9 +50,6 @@ namespace WFA_donguler
             X
             X
             */
-
-
-            lblYaziAlani.Text = "X\nX\nX\nX\nX\n";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -64,21 +65,19 @@ namespace WFA_donguler
             X X X X X X X X X X
 
             */
+            
 
-            int sideLength = 5; //int.Parse(textBox1.Text);
+            //sideLength = int.Parse(textBox1.Text);
             for (int row = 1; row <= sideLength; row++)
             {
-
                 for (int col = 1; col <= sideLength; col++)
                 {
-
-
-
-                        
+                    lblYaziAlani.Text += "X ";
                 }
 
+                lblYaziAlani.Text += "\n";
             }
-            lblYaziAlani.Text = "X ";
+            
         }
 
         private void btnOrnekDort_Click(object sender, EventArgs e)
@@ -94,7 +93,18 @@ namespace WFA_donguler
             X X X X X X X
             X X X X X X X X
             */
+            //sideLength = int.Parse(textBox1.Text);
+            
+            for (int row = 1; row <= sideLength; row++)
+            {
+                for (int col = 1; col <= row; col++)
+                {
+                    lblYaziAlani.Text += "X ";
+                }
 
+                lblYaziAlani.Text += "\n";
+            }
+            
         }
 
         private void btnOrnekBes_Click(object sender, EventArgs e)
@@ -137,6 +147,28 @@ namespace WFA_donguler
             X                       X
             X                       X
             X X X X X X X X X X X X X */
+            //sideLength = int.Parse(textBox1.Text);
+            int[] Square =new int[sideLength];
+            for (int row = 1; row < sideLength; row++)
+            {
+                if (Square[row]==1 || Square[row]==sideLength)
+                {
+
+                    for (int col = 1; col < sideLength; col++)
+                    {
+                        if (col==1 || col == sideLength)
+                        {
+                            lblYaziAlani.Text += "X ";
+                        }else
+                        {
+                            lblYaziAlani.Text += "  ";
+                        }
+                        
+                    }
+                }else
+                    lblYaziAlani.Text += "\n";
+
+            }
 
             // isteyen bu örnekleri console üzerinde yapabilir.
         }

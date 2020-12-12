@@ -1,0 +1,13 @@
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\bin\Debug\WFA_Functions.exe.config
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\bin\Debug\WFA_Functions.exe
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\bin\Debug\WFA_Functions.pdb
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.Form1.resources
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.Form4.resources
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.exe
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.pdb
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.Form2.resources
+S:\Files\SE\Csharp\Ba_11\WFA_Functions\obj\Debug\WFA_Functions.Form3.resources
