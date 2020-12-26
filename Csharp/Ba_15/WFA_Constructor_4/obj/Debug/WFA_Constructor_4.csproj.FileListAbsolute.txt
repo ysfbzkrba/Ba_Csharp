@@ -1,0 +1,14 @@
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.FConst3.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.FConst1.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.FConst2.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\bin\Debug\WFA_Constructor_4.exe.config
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\bin\Debug\WFA_Constructor_4.exe
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\bin\Debug\WFA_Constructor_4.pdb
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.exe
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.pdb
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.FConst4.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Constructor_4\obj\Debug\WFA_Constructor_4.FConst5.resources

@@ -1,0 +1,13 @@
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\bin\Debug\netcoreapp3.1\WCA_EntityQuery.exe
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\bin\Debug\netcoreapp3.1\WCA_EntityQuery.deps.json
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\bin\Debug\netcoreapp3.1\WCA_EntityQuery.runtimeconfig.json
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\bin\Debug\netcoreapp3.1\WCA_EntityQuery.runtimeconfig.dev.json
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\bin\Debug\netcoreapp3.1\WCA_EntityQuery.dll
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\bin\Debug\netcoreapp3.1\WCA_EntityQuery.pdb
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.AssemblyInfoInputs.cache
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.AssemblyInfo.cs
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.dll
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.pdb
+S:\Files\SE\Csharp\Ba_21_DataAccess_02\WCA_EntityQuery\obj\Debug\netcoreapp3.1\WCA_EntityQuery.genruntimeconfig.cache

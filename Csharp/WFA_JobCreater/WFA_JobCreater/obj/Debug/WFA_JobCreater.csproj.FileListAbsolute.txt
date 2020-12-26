@@ -1,0 +1,14 @@
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\bin\Debug\WFA_JobCreater.exe.config
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\bin\Debug\WFA_JobCreater.exe
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\bin\Debug\WFA_JobCreater.pdb
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.NewProject.resources
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.Properties.Resources.resources
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.exe
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.pdb
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\bin\Debug\MetroFramework.Design.dll
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\bin\Debug\MetroFramework.dll
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\bin\Debug\MetroFramework.Fonts.dll
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.csproj.CopyComplete
+S:\Files\SE\Csharp\WFA_JobCreater\WFA_JobCreater\obj\Debug\WFA_JobCreater.csprojAssemblyReference.cache

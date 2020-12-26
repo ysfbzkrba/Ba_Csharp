@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\bin\Debug\WFA_Struct_7.exe.config
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\bin\Debug\WFA_Struct_7.exe
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\bin\Debug\WFA_Struct_7.pdb
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.Form1.resources
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.exe
+S:\Files\SE\Csharp\Ba_16\WFA_Struct_7\obj\Debug\WFA_Struct_7.pdb

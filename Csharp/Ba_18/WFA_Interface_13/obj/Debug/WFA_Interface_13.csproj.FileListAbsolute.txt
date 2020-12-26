@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\bin\Debug\WFA_Interface_13.exe.config
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\bin\Debug\WFA_Interface_13.exe
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\bin\Debug\WFA_Interface_13.pdb
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.Form1.resources
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.exe
+S:\Files\SE\Csharp\Ba_18\WFA_Interface_13\obj\Debug\WFA_Interface_13.pdb

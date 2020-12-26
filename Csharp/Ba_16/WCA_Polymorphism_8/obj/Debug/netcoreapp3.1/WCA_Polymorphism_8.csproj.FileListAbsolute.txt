@@ -1,0 +1,13 @@
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\bin\Debug\netcoreapp3.1\WCA_Polymorphism_8.exe
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\bin\Debug\netcoreapp3.1\WCA_Polymorphism_8.deps.json
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\bin\Debug\netcoreapp3.1\WCA_Polymorphism_8.runtimeconfig.json
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\bin\Debug\netcoreapp3.1\WCA_Polymorphism_8.runtimeconfig.dev.json
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\bin\Debug\netcoreapp3.1\WCA_Polymorphism_8.dll
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\bin\Debug\netcoreapp3.1\WCA_Polymorphism_8.pdb
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.AssemblyInfoInputs.cache
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.AssemblyInfo.cs
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.dll
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.pdb
+S:\Files\SE\Csharp\Ba_16\WCA_Polymorphism_8\obj\Debug\netcoreapp3.1\WCA_Polymorphism_8.genruntimeconfig.cache

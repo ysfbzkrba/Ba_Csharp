@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\bin\Debug\WFA_Encapsulation_3.exe.config
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\bin\Debug\WFA_Encapsulation_3.exe
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\bin\Debug\WFA_Encapsulation_3.pdb
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.F_BankAccount.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.exe
+S:\Files\SE\Csharp\Ba_15\WFA_Encapsulation_3\obj\Debug\WFA_Encapsulation_3.pdb

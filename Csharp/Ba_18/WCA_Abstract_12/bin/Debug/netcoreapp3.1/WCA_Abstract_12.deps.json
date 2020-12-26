@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WCA_Abstract_12/1.0.0": {
+        "runtime": {
+          "WCA_Abstract_12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WCA_Abstract_12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

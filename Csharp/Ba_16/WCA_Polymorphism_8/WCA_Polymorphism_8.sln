@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCA_Polymorphism_8", "WCA_Polymorphism_8.csproj", "{7CFA6167-9A46-4F62-9677-87C28C7A5BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFA6167-9A46-4F62-9677-87C28C7A5BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFA6167-9A46-4F62-9677-87C28C7A5BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFA6167-9A46-4F62-9677-87C28C7A5BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFA6167-9A46-4F62-9677-87C28C7A5BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0E3D82-50C3-46FC-9DFA-9158F3D09375}
+	EndGlobalSection
+EndGlobal

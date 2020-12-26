@@ -1,0 +1,11 @@
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\bin\Debug\WFA_Enum_11.exe.config
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\bin\Debug\WFA_Enum_11.exe
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\bin\Debug\WFA_Enum_11.pdb
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.Enumerables.resources
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.Enum2.resources
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.exe
+S:\Files\SE\Csharp\Ba_17\WFA_Enum_11\obj\Debug\WFA_Enum_11.pdb

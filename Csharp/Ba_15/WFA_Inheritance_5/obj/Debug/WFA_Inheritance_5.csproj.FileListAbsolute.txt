@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\bin\Debug\WFA_Inheritance_5.exe.config
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\bin\Debug\WFA_Inheritance_5.exe
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\bin\Debug\WFA_Inheritance_5.pdb
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.Form1.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.exe
+S:\Files\SE\Csharp\Ba_15\WFA_Inheritance_5\obj\Debug\WFA_Inheritance_5.pdb

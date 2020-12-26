@@ -1,0 +1,13 @@
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\bin\Debug\WFA_Classes_2.exe.config
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\bin\Debug\WFA_Classes_2.exe
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\bin\Debug\WFA_Classes_2.pdb
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.FormEmployees.resources
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.exe
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.pdb
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\bin\Debug\FakeData.dll
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\bin\Debug\FakeData.pdb
+S:\Files\SE\Csharp\Ba_14\WFA_Classes_2\obj\Debug\WFA_Classes_2.csproj.CopyComplete

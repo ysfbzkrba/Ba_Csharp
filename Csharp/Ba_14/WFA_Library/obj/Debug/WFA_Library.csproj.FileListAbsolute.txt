@@ -1,0 +1,10 @@
+S:\Files\SE\Csharp\Ba_14\WFA_Library\bin\Debug\WFA_Library.exe.config
+S:\Files\SE\Csharp\Ba_14\WFA_Library\bin\Debug\WFA_Library.exe
+S:\Files\SE\Csharp\Ba_14\WFA_Library\bin\Debug\WFA_Library.pdb
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.csprojAssemblyReference.cache
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.Form1.resources
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.Properties.Resources.resources
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.csproj.GenerateResource.cache
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.csproj.CoreCompileInputs.cache
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.exe
+S:\Files\SE\Csharp\Ba_14\WFA_Library\obj\Debug\WFA_Library.pdb
